@@ -27,11 +27,11 @@ var answers = [
 //sends ready echo to console
 client.on('ready', () => {
   console.log("Prefix is: " + prefix);
-  console.log("Shade is R E A D Y.");
+  console.log("Zomic is R E A D Y.");
   client.user.setUsername("Shade")
-  .then(user => console.log("My name has changed to Shade."));
-  client.user.setActivity("!!help for help");
-  //client.user.setStatus("idle");
+  .then(user => console.log("My name has changed to Zomic."));
+  client.user.setActivity("LMAO");
+  //client.user.setStatus("online");
 
   //mute function
   client.setInterval(() => {
