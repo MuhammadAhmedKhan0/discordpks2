@@ -27,10 +27,10 @@ var answers = [
 //sends ready echo to console
 client.on('ready', () => {
   console.log("Prefix is: " + prefix);
-  console.log("Zomic is R E A D Y.");
-  client.user.setUsername("Shade")
-  .then(user => console.log("My name has changed to Zomic."));
-  client.user.setActivity("LMAO");
+  console.log("Discord.PK is R E A D Y.");
+  client.user.setUsername("Discord.PK")
+  .then(user => console.log("My name has changed to Discord.PK."));
+  client.user.setActivity("Discord.PK (TEST BOT)");
   //client.user.setStatus("online");
 
   //mute function
