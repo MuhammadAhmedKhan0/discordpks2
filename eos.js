@@ -27,9 +27,9 @@ var answers = [
 //sends ready echo to console
 client.on('ready', () => {
   console.log("Prefix is: " ! prefix);
-  console.log("Discord PK is R E A D Y.");
-  client.user.setUsername("Discord PK (TEST)")
-  .then(user => console.log("My name has changed to Discord PK."));
+  console.log("Discord.PK is R E A D Y.");
+  client.user.setUsername("Discord.PK (TEST)")
+  .then(user => console.log("My name has changed to Discord.PK."));
   client.user.setActivity("Behan ka lora chal");
   //client.user.setStatus("online");
 
@@ -245,7 +245,7 @@ client.on("guildCreate", guild =>{
     jsonfile.writeFile("config.json", config, {spaces: 4}, err =>{
       if(!err){
         const embed = new Discord.RichEmbed()
-          .addField("Welcome to the Discord PK!", "Thanks for adding Discord PK!")
+          .addField("Welcome to the Discord.PK!", "Thanks for adding Discord.PK!")
           .addField("I highly reccomend you check out the following link for info:", "https://veraxonhd.gitbooks.io/shade-modbot/content/first-time-setup.html")
           .setColor("#30167c");
         guild.owner.send({embed}).catch(console.log);
@@ -283,7 +283,7 @@ client.on("message", message => {
   /*
   BROKEN - repeats messages for no known reason.
   if(!logchannel){
-    message.channel.send("`Discord PK Critical Error` - There is no base log channel. You must set one up to use any of Discord PK's commands. Consult the docs.");
+    message.channel.send("`Discord.PK Critical Error` - There is no base log channel. You must set one up to use any of Discord.PK's commands. Consult the docs.");
     return;
   }*/
 
@@ -293,7 +293,7 @@ client.on("message", message => {
   }
   if(!message.content.startsWith(prefix)) return;
   exports.noPermReact = () => {
-    return message.channel.send(`Discord PK - \`Error\` - You do not have permission to perform that command.`)
+    return message.channel.send(`Discord.PK - \`Error\` - You do not have permission to perform that command.`)
       .then(message => message.react('❎'))
     };
 
