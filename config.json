@@ -11,23 +11,23 @@
         "muteRoleName": "Muted",
         "muteMessage": "null",
         "selfRoles": "Baiters Guardian",
-        "joinLogChannel": "292941255976026114"
+        "joinLogChannel": "668841830950895636"
     },
     "137719638556540929": {
         "disabledCommands": "riotcontrol riotrepeal",
         "disabledEvents": "null",
         "disabledMisc": "memberLog",
         "disabledAutoMod": "null",
-        "logchannelID": "299712887314972673",
-        "modlogchannelID": "150138495774621697",
-        "voicelogchannelID": "353793934616559617",
-        "joinlogchannelID": "299712887314972673",
-        "messagelogchannelID": "405076129196802048",
+        "logchannelID": "668841830950895636",
+        "modlogchannelID": "668841830950895636",
+        "voicelogchannelID": "668841830950895636",
+        "joinlogchannelID": "668841830950895636",
+        "messagelogchannelID": "668841830950895636",
         "autoCleanUpBlacklist": "null",
         "muteRoleName": "Muted",
         "muteMessage": "null",
         "selfRoles": "NA EU XB1 PS4 PC UK AUS HK Survival",
-        "joinLogChannel": "137719638556540929"
+        "joinLogChannel": "668841830950895636"
     },
     "240801631875235840": {
         "disabledCommands": "riotcontrol riotrepeal",
@@ -44,7 +44,7 @@
         "joinLogChannel": "240801631875235840"
     },
     "general": {
-        "ownerID": "213040107278696450"
+        "ownerID": "418583960461770754"
     },
     "335884553296019457": {
         "disabledCommands": "riotcontrol riotrepeal",
@@ -58,42 +58,42 @@
         "muteRoleName": "Muted",
         "muteMessage": "null",
         "selfRoles": "null",
-        "joinLogChannel": "338441119836667904"
+        "joinLogChannel": "668841830950895636"
     },
     "373828154135019530": {
         "disabledCommands": "riotcontrol riotrepeal",
         "disabledEvents": "null",
         "disabledMisc": "null",
         "disabledAutoMod": "null",
-        "logchannelID": "373837595890679819",
+        "logchannelID": "668841830950895636",
         "modlogchannelID": "null",
         "voicelogchannelID": "null",
         "autoCleanUpBlacklist": "google userinfo",
         "muteRoleName": "Muted",
         "muteMessage": "null",
         "selfRoles": "Crucible PvE",
-        "joinLogChannel": "373828154135019532"
+        "joinLogChannel": "668841830950895636"
     },
     "383987122706579466": {
         "disabledCommands": "riotcontrol riotrepeal",
         "disabledEvents": "null",
         "disabledMisc": "null",
         "disabledAutoMod": "null",
-        "logchannelID": "386243756619202580",
+        "logchannelID": "668841830950895636",
         "modlogchannelID": "null",
         "voicelogchannelID": "null",
         "autoCleanUpBlacklist": "google serverinfo userinfo",
         "muteRoleName": "Muted",
         "muteMessage": "null",
         "selfRoles": "null",
-        "joinLogChannel": "384274772001030165"
+        "joinLogChannel": "668841830950895636"
     },
     "391798629872173066": {
         "disabledCommands": "userinfo mute kick ban warn botinfo serverinfo help tag selfrole role unmute newpoll configure riotcontrol riotrepeal",
         "disabledEvents": "memberLog",
         "disabledMisc": "null",
         "disabledAutoMod": "null",
-        "logchannelID": "405445141134966814",
+        "logchannelID": "668841830950895636",
         "modlogchannelID": "null",
         "voicelogchannelID": "null",
         "autoCleanUpBlacklist": "google serverinfo userinfo",
